@@ -1,5 +1,8 @@
 # RMarkdown Template for Business Reports 
 
+This is a package based on the fantastic work of INWTlab, which I have modified
+slightly to accomodate my use case. Below is the original README.
+
 This R package provides a LaTeX and RMarkdown template suitable for business
 reports. The design and layout is loosly oriented at MS Word defaults. In the
 YAML header of the RMarkdown template, you can easily customize the colors,

@@ -1,4 +1,4 @@
-name: INWTlab Business Report (pdf)
+name: Cvergenx Business Report (pdf)
 description: >
   Template for creating business reports in RMarkdown loosly oriented at MS Word defaults.
-create_dir: true
+create_dir: false
